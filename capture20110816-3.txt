@@ -1,0 +1,7 @@
+o arquivo capture20110816-3.binetflow é muito grade para o GitHub
+
+baixe em:
+
+
+wget --no-check-certificate https://mcfp.felk.cvut.cz/publicDatasets/CTU-13-Dataset/CTU-13-Dataset.tar.bz2
+
