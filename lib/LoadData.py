@@ -94,7 +94,7 @@ def loaddata(fileName):
                     break
 
         except BaseException as e:
-            print("dfff"+str(e))
+            print("Erro [+] "+str(e))
             continue
 
     #print(xdataT)

@@ -1,4 +1,7 @@
-#Fonte: PythonDataScienceHandbook -> https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/helpers_05_08.py
+#!/usr/bin/python
+# encoding=utf8
+
+#Fonte: Python Data Science Handbook -> https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/helpers_05_08.py
 
 import numpy as np
 import matplotlib.pyplot as plt
