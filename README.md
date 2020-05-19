@@ -1,6 +1,14 @@
 # botnetDetect
 Artigo - UNICEUB
 
+**Recomendado usar o pipenv para instalar as dependências
+
+pip3 install pipenv
+
+pipenv --three
+
+pipenv shell
+
 # DETECÇÃO DE BOTNET USANDO MACHINE LEARNING
 
 ## Carregando os dados usando PANDAS
