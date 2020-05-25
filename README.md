@@ -698,7 +698,6 @@ print(x)
 
 
 ```python
-# Load libraries
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.model_selection import learning_curve
@@ -706,8 +705,6 @@ from sklearn.model_selection import learning_curve
 
 
 ```python
-# Create feature matrix and target vector
-#Xdata, Ydata, XdataT, YdataT
 X, y = Xdata, Ydata
 ```
 
