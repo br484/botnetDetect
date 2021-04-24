@@ -1,5 +1,5 @@
 # botnetDetect
-Artigo - UNICEUB
+
 
 **Recomendado usar o pipenv para instalar as dependências
 
